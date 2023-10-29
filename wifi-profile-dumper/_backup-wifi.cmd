@@ -1,0 +1,3 @@
+rem wifi profile dumper by Jacky Timmermans
+rem backupping wifi profiles...
+netsh wlan export profile key=clear folder=.

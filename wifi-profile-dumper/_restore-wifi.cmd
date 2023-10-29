@@ -1,0 +1,3 @@
+rem wifi profile dumper by Jacky Timmermans
+rem restoring wifi profiles...
+FORFILES /M *.xml /C "cmd /c netsh wlan add profile @path"
