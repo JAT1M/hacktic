@@ -1,2 +1,2 @@
-# hacktic
+# scripts
 some workflow scripts
